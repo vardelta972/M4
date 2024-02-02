@@ -11,8 +11,13 @@
             "id": "a4c4f32583d9861a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "mth.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -74,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 264.5
   },
   "right": {
     "id": "1e4bc482bc144e0c",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "mth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,15 +134,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "mth.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,6 +157,15 @@
       "dendron-tree:Open Dendron Tree": false
     }
   },
-  "active": "fd94af2a96649759",
-  "lastOpenFiles": []
+  "active": "a4c4f32583d9861a",
+  "lastOpenFiles": [
+    "mth.Foundations.Axiom Of Extensionality.md",
+    "mth.md",
+    "root.md",
+    "chemistry.md",
+    "Mathematics(Unified).md",
+    "physics.md",
+    "WMath.md",
+    "CoordinationCenter.md"
+  ]
 }
