@@ -1,5 +1,10 @@
 [
   "obsidian-git",
   "dendron-tree",
-  "dataview"
+  "dataview",
+  "omnisearch",
+  "text-extractor",
+  "highlightr-plugin",
+  "obsidian-tasks-plugin",
+  "obsidian-enhancing-export"
 ]
