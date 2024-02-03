@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "mth.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -160,6 +160,8 @@
   },
   "active": "d1db4f6c59ed263c",
   "lastOpenFiles": [
+    "chemistry.md",
+    "mth.md",
     "manim.manimtest.py",
     "iCloudDrive/bks/Calculus/Books/rudin.pdf",
     "iCloudDrive/bks/Calculus/Handouts/ltaylor ecturer10.pdf",
@@ -173,9 +175,7 @@
     "pdfdocs",
     "iCloudDrive/bks/Polynomials/mathematical circles.pdf",
     "mth.Foundations.Axiom Of Extensionality.md",
-    "mth.md",
     "root.md",
-    "chemistry.md",
     "Mathematics(Unified).md",
     "physics.md",
     "WMath.md",
