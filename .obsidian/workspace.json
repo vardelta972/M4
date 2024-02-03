@@ -11,8 +11,13 @@
             "id": "d1db4f6c59ed263c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "mth.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "mth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "mth.md"
+              }
             }
           }
         ],
@@ -151,6 +160,7 @@
   },
   "active": "d1db4f6c59ed263c",
   "lastOpenFiles": [
+    "manim.manimtest.py",
     "iCloudDrive/bks/Calculus/Books/rudin.pdf",
     "iCloudDrive/bks/Calculus/Handouts/ltaylor ecturer10.pdf",
     "ltaylor ecturer10.md",
