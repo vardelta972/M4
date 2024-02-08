@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mth.analysis.sequential integrability.md",
+                "file": "Notebooks.Index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mth.analysis.sequential integrability.md",
+                "file": "Notebooks.Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mth.analysis.sequential integrability.md",
+                "file": "Notebooks.Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mth.analysis.sequential integrability.md"
+                "file": "Notebooks.Index.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "d1db4f6c59ed263c",
   "lastOpenFiles": [
-    "mth.analysis.riemann sums.md",
     "mth.analysis.sequential integrability.md",
+    "mth.analysis.riemann sums.md",
     "mth.Foundations.ST.Axiom Of Choice.md",
     "Notebooks.Index.md",
     "mth.Foundations.Axiom Of Extensionality.md",
