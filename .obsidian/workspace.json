@@ -26,12 +26,9 @@
             "id": "3759a5aa7c48a1d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "mth.analysis.sequential integrability.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "file": "iCloudDrive/bks/Calculus/Books/Apostol 1.pdf"
               }
             }
           }
@@ -111,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mth.analysis.sequential integrability.md",
+                "file": "iCloudDrive/bks/Calculus/Books/Apostol 1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mth.analysis.sequential integrability.md",
+                "file": "iCloudDrive/bks/Calculus/Books/Apostol 1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mth.analysis.sequential integrability.md"
+                "file": "iCloudDrive/bks/Calculus/Books/Apostol 1.pdf"
               }
             }
           }
@@ -176,14 +173,18 @@
   },
   "active": "3759a5aa7c48a1d0",
   "lastOpenFiles": [
-    "iCloudDrive/bks/Calculus/Handouts/integration_compiled.pdf",
+    "mth.analysis.integral test.md",
+    "mth.NT.congruence.md",
+    "iCloudDrive/bks/Number Theory/Number Theory 2/Congruences.pdf",
+    "iCloudDrive/bks/Number Theory/Number Theory 2/Number Theory - Dana Paquin Ph.D - EPGY.pdf",
+    "mth.md",
     "mth.analysis.sequential integrability.md",
+    "iCloudDrive/bks/Calculus/Handouts/integration_compiled.pdf",
     "Notebooks.Index.md",
     "mth.analysis.riemann sums.md",
     "mth.Foundations.ST.Axiom Of Choice.md",
     "mth.Foundations.Axiom Of Extensionality.md",
     "mth.Foundations.md",
-    "mth.md",
     "manim.manimtest.py",
     "iCloudDrive/bks/Calculus/Books/rudin.pdf",
     "iCloudDrive/bks/Calculus/Handouts/ltaylor ecturer10.pdf",
@@ -193,9 +194,6 @@
     "iCloudDrive/bks/Algebra/Algebra/Finite Calculus - David Gleich - X.pdf",
     "iCloudDrive/bks/Calculus/proj/unl.pdf",
     "iCloudDrive/bks/Calculus/Books/unl.pdf",
-    "pdfdocs/images",
-    "pdfdocs",
-    "iCloudDrive/bks/Polynomials/mathematical circles.pdf",
     "root.md",
     "chemistry.md",
     "Mathematics(Unified).md",
