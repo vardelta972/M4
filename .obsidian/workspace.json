@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mth.md",
+                "file": "mth.analysis.sequential integrability.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:unl",
+                "query": "tag:Apple-pg1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mth.md",
+                "file": "mth.analysis.sequential integrability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mth.md",
+                "file": "mth.analysis.sequential integrability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mth.md"
+                "file": "mth.analysis.sequential integrability.md"
               }
             }
           }
@@ -160,6 +160,13 @@
   },
   "active": "d1db4f6c59ed263c",
   "lastOpenFiles": [
+    "mth.analysis.riemann sums.md",
+    "mth.analysis.sequential integrability.md",
+    "mth.Foundations.ST.Axiom Of Choice.md",
+    "Notebooks.Index.md",
+    "mth.Foundations.Axiom Of Extensionality.md",
+    "mth.Foundations.md",
+    "mth.md",
     "manim.manimtest.py",
     "iCloudDrive/bks/Calculus/Books/rudin.pdf",
     "iCloudDrive/bks/Calculus/Handouts/ltaylor ecturer10.pdf",
@@ -172,8 +179,6 @@
     "pdfdocs/images",
     "pdfdocs",
     "iCloudDrive/bks/Polynomials/mathematical circles.pdf",
-    "mth.Foundations.Axiom Of Extensionality.md",
-    "mth.md",
     "root.md",
     "chemistry.md",
     "Mathematics(Unified).md",
