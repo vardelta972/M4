@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mth.multcal.partialdiff.md",
+                "file": "mth.multcal.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 270.5
   },
   "right": {
     "id": "1e4bc482bc144e0c",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mth.multcal.partialdiff.md",
+                "file": "mth.multcal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mth.multcal.partialdiff.md",
+                "file": "mth.multcal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mth.multcal.partialdiff.md"
+                "file": "mth.multcal.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "cd99b2b8264f0a70",
   "lastOpenFiles": [
-    "mth.multcal.md",
     "mth.multcal.partialdiff.md",
+    "mth.multcal.md",
     "mth.anal.riemann_integral.md",
     "README.md",
     "mth.md",

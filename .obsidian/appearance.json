@@ -1,4 +1,5 @@
 {
-  "accentColor": "#0091ff",
-  "cssTheme": "Things"
+  "accentColor": "#ff0000",
+  "cssTheme": "Things",
+  "translucency": false
 }
