@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mth.anal.riemann_integral.md",
-                "mode": "source",
+                "file": "mth.multcal.partialdiff.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mth.anal.riemann_integral.md",
+                "file": "mth.multcal.partialdiff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mth.anal.riemann_integral.md",
+                "file": "mth.multcal.partialdiff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mth.anal.riemann_integral.md"
+                "file": "mth.multcal.partialdiff.md"
               }
             }
           }
@@ -160,8 +160,10 @@
   },
   "active": "cd99b2b8264f0a70",
   "lastOpenFiles": [
-    "README.md",
+    "mth.multcal.md",
+    "mth.multcal.partialdiff.md",
     "mth.anal.riemann_integral.md",
+    "README.md",
     "mth.md",
     "mth.NT.congruence.md",
     "mth.Foundations.md",
