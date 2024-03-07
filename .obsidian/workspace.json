@@ -8,32 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1db4f6c59ed263c",
+            "id": "cd99b2b8264f0a70",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notebooks.Index.md",
-                "mode": "preview",
+                "file": "mth.anal.riemann_integral.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "3759a5aa7c48a1d0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "iCloudDrive/bks/Calculus/Books/Apostol 1.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iCloudDrive/bks/Calculus/Books/Apostol 1.pdf",
+                "file": "mth.anal.riemann_integral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "iCloudDrive/bks/Calculus/Books/Apostol 1.pdf",
+                "file": "mth.anal.riemann_integral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "iCloudDrive/bks/Calculus/Books/Apostol 1.pdf"
+                "file": "mth.anal.riemann_integral.md"
               }
             }
           }
@@ -171,20 +158,25 @@
       "dendron-tree:Open Dendron Tree": false
     }
   },
-  "active": "3759a5aa7c48a1d0",
+  "active": "cd99b2b8264f0a70",
   "lastOpenFiles": [
-    "mth.analysis.integral test.md",
+    "README.md",
+    "mth.anal.riemann_integral.md",
+    "mth.md",
     "mth.NT.congruence.md",
+    "mth.Foundations.md",
+    "mth.analysis.sequential integrability.md",
+    "mth.analysis.integral test.md",
+    "mth.analysis.md",
+    "physics.md",
+    "Notebooks.Index.md",
+    "chemistry.md",
     "iCloudDrive/bks/Number Theory/Number Theory 2/Congruences.pdf",
     "iCloudDrive/bks/Number Theory/Number Theory 2/Number Theory - Dana Paquin Ph.D - EPGY.pdf",
-    "mth.md",
-    "mth.analysis.sequential integrability.md",
     "iCloudDrive/bks/Calculus/Handouts/integration_compiled.pdf",
-    "Notebooks.Index.md",
     "mth.analysis.riemann sums.md",
     "mth.Foundations.ST.Axiom Of Choice.md",
     "mth.Foundations.Axiom Of Extensionality.md",
-    "mth.Foundations.md",
     "manim.manimtest.py",
     "iCloudDrive/bks/Calculus/Books/rudin.pdf",
     "iCloudDrive/bks/Calculus/Handouts/ltaylor ecturer10.pdf",
@@ -195,9 +187,7 @@
     "iCloudDrive/bks/Calculus/proj/unl.pdf",
     "iCloudDrive/bks/Calculus/Books/unl.pdf",
     "root.md",
-    "chemistry.md",
     "Mathematics(Unified).md",
-    "physics.md",
     "WMath.md",
     "CoordinationCenter.md"
   ]
