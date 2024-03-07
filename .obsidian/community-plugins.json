@@ -6,5 +6,6 @@
   "text-extractor",
   "highlightr-plugin",
   "obsidian-tasks-plugin",
-  "obsidian-enhancing-export"
+  "obsidian-enhancing-export",
+  "obsidian-latex-suite"
 ]
